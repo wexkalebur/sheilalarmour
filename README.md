@@ -7,4 +7,8 @@
 <!---
 sheilalarmour/sheilalarmour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
+12:20:17 git import for: https://www.avon.com
+12:20:17 Cloning https://www.avon.com...
+12:20:18 Remote Git clone failed: <class 'bitbucket.apps.asyncx.tasks.RepoImportTask.ImportException'>: Command failed. Return value: 128
+
